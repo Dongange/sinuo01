@@ -1,8 +1,8 @@
 # 思诺第一期 项目培训课程
 
-作业提交的建议教程
 
 ```
+作业提交的简易教程
 git clone https://github.com/Dongange/sinuo01.git
 cd sinuo01
 mkdir zhangsan  #你的姓名
